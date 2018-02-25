@@ -1,0 +1,3 @@
+[submodule "dwango/scala-sandbox"]
+	path = dwango/scala-sandbox
+	url = https://github.com/arai-ta/scala-sandbox
